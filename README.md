@@ -11,9 +11,9 @@ Visual perception is a highly dynamic and complex process which heavily relies o
 We essentially replicate the standard distraction paradigm. Subjects are given a single face as a target stimulus, and given time to encode ("Remember this face.'). A question ("Male or female?" or "Young or old?") will precede the distracting stimulus (DS). Feedback to this question will be provided to subjects. Subjects will then be cued to pinpoint the target face on a 360 degree wheel. ("Find the face you remembered")
 
 
-#### Task image
+#### Task Image
 
-![Task Image](./Test Paradigm.png)
+![Task Image](Test Paradigm.png)
 
 ## Relevant Works
 
