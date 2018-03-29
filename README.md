@@ -13,7 +13,7 @@ We essentially replicate the standard distraction paradigm. Subjects are given a
 
 #### Task Image
 
-![Task Image](Test Paradigm3.png)
+![Task Image](https://github.com/anu-rima/Morphkoh/blob/master/Test%20Paradigm3.png)
 
 ## Relevant Works
 
