@@ -13,7 +13,7 @@ We essentially replicate the standard distraction paradigm. Subjects are given a
 
 #### Task image
 
-![Task Image](Test Paradigm.png)
+![Task Image](./Test Paradigm.png)
 
 ## Relevant Works
 
